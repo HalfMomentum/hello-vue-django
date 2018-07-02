@@ -7,3 +7,8 @@ npm-debug.log
 db.sqlite3
 webpack-stats.json
 __pycache__
+env
+node_modules
+config.py
+
+*.pyc
